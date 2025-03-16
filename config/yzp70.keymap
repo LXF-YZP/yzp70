@@ -21,7 +21,7 @@
             label = "DEFAULT";
             bindings = <
                  &kp UP                    
-      &kp LEFT  &mkp LCLK  &kp RIGHT      
+      &kp LEFT  &kp SPACE   &kp RIGHT      
                 &kp DOWN              
             >;
         };
