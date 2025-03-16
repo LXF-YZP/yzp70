@@ -28,9 +28,10 @@
         fn_layer {
             label = "FN";
             bindings = <
-                                 &kp UP                    
+                 &kp UP                    
       &kp LEFT  &kp ENTER  &kp RIGHT      
-                &kp DOWN           
+                &kp DOWN  
+                >;         
         };
     };
 };
